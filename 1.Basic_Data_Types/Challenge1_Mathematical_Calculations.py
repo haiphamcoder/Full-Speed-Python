@@ -1,3 +1,6 @@
+# Problem Statement
+# Create a function that takes two numbers and returns a list of four values calculated from those numbers. The first value should be the classic division of the two numbers, the second value should be the floor division of the two numbers, the third value should be the modulus of the two numbers, and the fourth value should be the power of the first number to the second number.
+
 def MathOp(a, b):
     classic_division = a/b
     floor_division = a//b
