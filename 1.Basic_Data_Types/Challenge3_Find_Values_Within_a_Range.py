@@ -1,3 +1,6 @@
+# Problem Statement
+# Write a function that takes two numbers and returns a boolean value based on whether the first number is less than 1/3 and the second number is greater than 1/3.
+
 def inRange(x, y):
     return x < 1/3 < y
 
